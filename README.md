@@ -2,6 +2,8 @@
 
 
 
+## 介绍
+
 * 官网: https://sparanoid.com/lab/7z/7z.html
 
   
@@ -50,3 +52,14 @@
 相关链接：
 
 - [Wikipedia 的 7z 页面](https://en.wikipedia.org/wiki/7z)
+
+
+
+## 许可证
+
+
+
+**7-Zip** 是一款 **开源** 的 **免费** 软件。大多数源代码都基于 **GNU LGPL** 许可协议下发布。部分代码基于 BSD 3 句条款（BSD 3-clause）许可协议发布。并且，部分代码受到了 unRAR 许可协议的限制。更多许可信息请查看：[7-Zip 许可](https://github.com/sparanoid/7z/blob/master/zh-cn/License.txt)。
+
+您可以在任何一台计算机上使用 7-Zip ，包括用在商业用途的计算机。不对 7-Zip 进行注册或支付费用并不影响您的使用。
+
